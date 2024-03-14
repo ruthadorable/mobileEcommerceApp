@@ -47,11 +47,11 @@ See [CONTRIBUTING.md](https://github.com/ionic-team/ionic-conference-app/blob/ma
 | ![Android Menu](/resources/screenshots/android-menu.png) | ![iOS Menu](/resources/screenshots/ios-menu.png) |
 
 
-### [Schedule Page](https://github.com/ionic-team/ionic-conference-app/blob/main/src/app/pages/schedule/schedule.html)
+### [Menu Page](https://github.com/ionic-team/ionic-conference-app/blob/main/src/app/pages/Menu/Menu.html)
 
 | Material Design  | iOS  |
 | -----------------| -----|
-| ![Android Schedule](/resources/screenshots/android-schedule.png) | ![iOS Schedule](/resources/screenshots/ios-schedule.png) |
+| ![Android Menu](/resources/screenshots/android-Menu.png) | ![iOS Menu](/resources/screenshots/ios-Menu.png) |
 
 ### [Speakers Page](https://github.com/ionic-team/ionic-conference-app/blob/main/src/app/pages/speaker-list/speaker-list.html)
 
